@@ -14,4 +14,4 @@ C++framework is a delicate review material to improve understanding C++ structur
 
 
 # finally
-All of my projects are under MIT license, feel free to use it under the license.
+All of my projects are under MIT license, feel free to use them under the license.
